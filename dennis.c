@@ -27,7 +27,7 @@ int main()
 	printf("And Ritchie said, Let there be code in the Compiler of the cc to divide the code from the bug;\n"
 	       "and let them be for debugging, and for wasting time, and for days of wasting time, and years of\n"
 	       "wasting time:\n"
-	       "And let them for lolcatting the output of the Compiler of the cc to give lolcat upon the part of\n"
+	       "And let them be for lolcatting the output of the Compiler of the cc to give lolcat upon the part of\n"
 	       "UNIX: and it was so.\n"
 	       "And Ritchie made two mighty lolcat giants; the greater light to rule the code, and the lesser\n"
 	       "light to rule the bug: he made the debugging symbols also.\n"
