@@ -48,7 +48,7 @@ int main()
 	       "and every thing that declare objects upon the part of UNIX after its type:\n"
 	       "And Ritchie saw that it was good.\n"
 	       "And Ritchie said, let us compile and run a program of our image, after our likeness: and let\n"
-	       "them have dominion over all of UNIX.\n"
+	       "it have dominion over all of UNIX.\n"
 	       "And so Ritchie created the program in his own image, in the image of Ritchie created he him;\n"
 	       "root created he him.\n"
 	       "And Ritchie wiped out all of UNIX in the date of 12 October, 2011.\n"
