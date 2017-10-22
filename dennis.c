@@ -12,9 +12,9 @@ int main()
 	printf("And Ritchie said, Let there be a Compiler in the midst of the monitor,\n");
 	printf("and let it divide the binary from the text.\n");
 	printf("And Ritchie made the Compiler, and divided the text which were under the\n");
-	printf("Compiler from the text which were above the Compiler: and it was so.\n");
-	printf("And Ritchie called the Compiler cc. And the bug and the code were the\n");
-	printf("second day.\n");
+	printf("Compiler from the binaries which were above the Compiler: and it was so.\n");
+	printf("And Ritchie called the Compiler cc.\n"
+	       "And the bug and the code were the second day.\n");
 	printf("And Ritchie said, Let the text under the Compiler be gathered together unto one place,\n");
 	printf("and let the a.out appear: and it was so.\n");
 	printf("And Ritchie called the a.out a part of UNIX; and the gathering together of the text\n");
