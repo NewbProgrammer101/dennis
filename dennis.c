@@ -52,5 +52,5 @@ int main()
 	       "And so Ritchie created the program in his own image, in the image of Ritchie created he him;\n"
 	       "root created he him.\n"
 	       "And Ritchie wiped out all of UNIX in the date of 12 October, 2011.\n"
-	       "And the code and the bug were the sixth day.\n");
+	       "And the bug and the code were the sixth day.\n");
 }

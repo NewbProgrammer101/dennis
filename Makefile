@@ -1,7 +1,7 @@
 all:dennis
 
 dennis:dennis.c
-	gcc -Wall dennis.c && ./a.out
+	gcc -Wall dennis.c && ./a.out && make clean
 
 clean :
-	rm -rf dennis
+	rm -rf a.out
