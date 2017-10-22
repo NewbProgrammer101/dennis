@@ -40,7 +40,7 @@ int main()
 	       "And Ritchie created great statements, and everything that they declare, which the text brought\n"
 	       "forth abundantly, after their type, and every type after its type: and Ritchie saw that it was good\n"
 	       "And Ritchie executed them, saying, Be verbose in output, and easy to debug, and fill the emptiness\n"
-	       "of the part of UNIX, and let the code multiply at the same rate of the bug\n"
+	       "of the part of UNIX, and let the code multiply at the same rate as the bug\n"
 	       "And the bug and the code were the fifth day.\n"
 	       "And Ritchie said, Let the part of UNIX bring forth the function after its type, statements: and\n"
 	       "it was so.\n"
