@@ -6,3 +6,4 @@ dennis:dennis.c
 clean :
 	rm -rf a.out
 	rm -rf UNIX
+	./h.sh
